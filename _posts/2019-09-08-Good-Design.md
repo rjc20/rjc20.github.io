@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Good Design
+image: /img/Library.png
 ---
 ![Williams Library](/img/Library.png)
 
