@@ -6,6 +6,7 @@ image: /img/frye_museum.jpg
 bigimg: /img/frye_museum.jpg
 ---
 
+
 ## Problem
 
 In today's world, many people who might otherwise be interested in going to museums and learning more about art get stuck in the day-to-day of life and are unable to make the trip to a local art museum. With this hobby in particular, because of the close look and the constant engagement that is required with most pieces, it can be difficult to set aside the time necessary to cultivate an interest in art. In addition to that issue, it can also be hard to engage with the hobby in the first place without some formal education in art or art history. The small descriptions next to pieces in an art museum rarely offer the full context in which a piece was made or much of an explanation of the style of a piece. Thus, I want to make art more accessible both for captive users and, more generally, interested users who want to reach a better understanding and appreciation of artwork.
