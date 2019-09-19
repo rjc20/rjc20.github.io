@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Individual Project Proposal
-subtitle: Art on the Go
+subtitle: Quick Art
 image: /img/frye_museum.jpg
 bigimg: /img/frye_museum.jpg
 ---
