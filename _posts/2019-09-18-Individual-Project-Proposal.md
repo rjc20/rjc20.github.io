@@ -17,3 +17,5 @@ My proposed solution is an app whose primary function is to present a piece of a
 
 
 Image taken from [Frye Museum](https://fryemuseum.org/exhibition/6884)
+
+[Revised Proposal](https://hci-sys.github.io/LearningInNature/projectproposal/)
