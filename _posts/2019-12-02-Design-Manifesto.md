@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Stop designing based on your idea of “Cool”
+title: Design Manifesto
+subtitle: Stop designing based on your idea of “Cool”
 ---
 
 My first encounter with HCI concepts was during Winter Study 2019 when I took a Design Thinking course with Ric Grefe, Williams’ Design Thinker in Residence, that involved visiting an IBM Design Studio and utilizing various design methods such as conducting interviews, creating personas, and drawing storyboards to create a unique solution for our given problem. Before that experience, I was a “the more features there are, the better” type of designer thinking that as long as the final design worked without any major bugs, users would be happier with a plethora of different options and features that they can make use of. To that effect, when thinking of designs, I would add whatever features I had seen before that I thought were cool simply for the fun of it. I was essentially designing for myself only. However, that course encouraged me to seek out the user to find out what they need and what they find essential and making those ideas a core part of my designs. These new thoughts pushed me to take CSCI 432: Human-Computer Interaction to learn more about some of the concepts I had been introduced to in my earlier course. Now this really opened my eyes and made me consider the biases that can take hold in a design when the user is not considered. If you design only for yourself or your team, there are a whole slew of ethical and accessibility questions that often go ignored or unnoticed throughout the design process. Here are some of the issues I found with designing with your idea of what's cool or necessary in mind:
