@@ -23,4 +23,10 @@ What I think of as cool is often influenced in large part by things that I’ve 
 
 ## Cool isn’t always simple
 
-At the end of the day, a designer should aim to create a design that can be easily understood by users. We all probably know somebody who opens up a new product or device, takes one look at the instruction manual, and immediately throws it out. I’m slightly ashamed to admit that I am exactly that type of person. Thankfully, I have been spoiled by relatively intuitive designs that allowed for me to easily figure out how to use the designs. This is something that every designer should strive for and it’s something that I learned firsthand through the usability tests conducted by the hikAR team. You can see through the difference between our initial paper prototype and our digital mockups that a few pieces of our design needed to be simplified to ensure that all users would be able to easily make use of our design. This is something that will definitely influence any future designs that I participate in as it also connects to the idea of accessibility and creating designs that are accessible for all users regardless of their circumstances.
+At the end of the day, a designer should aim to create a design that can be easily understood by users. We all probably know somebody who opens up a new product or device, takes one look at the instruction manual, and immediately throws it out. I’m slightly ashamed to admit that I am exactly that type of person. Thankfully, I have been spoiled by relatively intuitive designs that allowed for me to easily figure out how to use the designs. This is something that every designer should strive for and it’s something that I learned firsthand through the usability tests conducted by the hikAR team. You can see through the difference between our initial paper prototype and our digital mockups that a few pieces of our design needed to be simplified to ensure that all users would be able to easily make use of our design.
+
+![Image of hikAR's initial paper prototype](\img\prototype.jpeg)
+
+![Image of hikAR's final digital mockup](\img\mockup.png)
+
+This is something that will definitely influence any future designs that I participate in as it also connects to the idea of accessibility and creating designs that are accessible for all users regardless of their circumstances.
